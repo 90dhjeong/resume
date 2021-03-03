@@ -42,18 +42,19 @@
 
 ## 프로젝트
 
- **제이에스티나 ERP 대시보드 iOS 앱 개발**
-* 개발기간 : 2019.11~ 2019.5
-* 담당 업무 : iOS Native
-* 개발환경 : Swift 4
-* 업무실적 : 기존 웹 기반 ERP 프로그램의 매출 내역을 차트, 그래프, 표 등 대시보드 형태로 구현하여 내부 출시 진행
+**제이에스티나 ERP 대시보드 앱 개발**
 
-**제이에스티나 ERP 대시보드 android 앱 개발**
-* 개발기간: 2019.05~ 2019.10 
-* 담당 업무 : Android Native
-* 개발환경 : Java
-* 업무실적 : 기존 웹 기반 ERP 프로그램의 매출 내역을 차트, 그래프, 표 등 대시보드 형태로 구현하여 내부 출시 진행.
-MVP 패턴을 적용하여 개발, third party 라이브러리 사용
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 전임자분이 MVP 패턴으로 40% 선행개발을 진행해주셔서 진행된 부분을 확인하고 코드를 리뷰하여 나머지 60%의 기능을 개발하였습니다. Android ERP 앱을 먼저 개발한 후 iOS 앱 개발을 진행하였으며, iOS 개발은 프로젝트를 생성하는 것 부터 차근차근 개발해나갔습니다.
+
+* 회사 : J.ESTINA
+* 개발 기술 : Swift4, Android Java
+* 담당 업무
+  * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
+  * Enterprise 출시
+
+<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
+<br/>
+
 
 **제이에스티나 자사몰 android, iOS 앱 하자, 유지보수**
 * 개발기간 : 2019.04~현재 외주 진행중
@@ -137,3 +138,8 @@ UI/UX 수정, 코드 리팩토링 진행
 [Android, Web]
 버그 수정, UI/UX 업데이트
 
+
+회사 : 외주
+개발 기술 : Objective-C
+담당 업무
+iOS 앱 신규 개발
