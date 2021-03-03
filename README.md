@@ -41,20 +41,6 @@
 
 <br/>
 
-## 활동
-
-[**Let us: Go! 2019 Summer**](https://letusgo.app/)
-> <누구나 할 수 있다 Networking>라는 주제로 초급자를 대상으로 REST에 대한 기초와 iOS에서의 Networking 처리를 위한 URLSession와 Alamofire, Moya라는 라이브러리를 사용해보는 실습을 진행했습니다.
->
-> https://www.slideshare.net/ssuser86f623/networking-159992226
-
-* 기간 : 2019.08.03
-* 내용 : 누구나 할 수 있다 Networking
-
-<img src="images/Slide-Networking/1.jpg" height="165"/> <img src="images/Slide-Networking/2.jpg" height="165"/> <img src="images/Slide-Networking/3.jpg" height="165"/>
-
-<br/>
-
 ## 프로젝트
 
 **Jestina**
@@ -104,6 +90,8 @@
 <br/>
 
 **MINT**
+
+<img src="images/mint/1.png" height="315"/>  <img src="images/mint/2.png" height="315"/>
 
 > Android 프로젝트로, UI를 제외한 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현하는 앱이였어요. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드리더기만 있으면 어디서든 결제가 가능한거죠. 정말 고생을 많이 했던 프로젝트 였습니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 받으러 갔어야 했어요. 대표님과 함께 갔었는데... 모든 심사 자료를 제출하고 나서 혼자 카페에 앉아 숨 고르기를 했네요. 혹시나, 설마, TTA 인증심사에서 탈락하면 어떡하지? 하지만 난 시키는대로 잘 했는걸? 심사 통과 결과를 받아들고 혼자 감격에 겨웠던 경험이 있습니다.
 
