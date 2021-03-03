@@ -108,8 +108,7 @@
 
 <img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
 
-> Android 프로젝트로, UI를 제외한 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현하는 앱이였어요. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드리더기만 있으면 어디서든 결제가 가능합니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 받으러 갔습니다. 혹시나, 설마, TTA 인증심사에서 탈락하면 어떡하지? 하지만 난 시키는대로 잘 했는걸? 개발은 힘들었지만, 심사 통과 결과를 받아들고 혼자 감격에 겨웠던 경험이 있습니다.
-
+> 3번째 react-native 앱입니다. 온라인 슈퍼마켓으로 현재의 배달의민족 B마트와 유사해요. 사용자가 결제를 완료하면 배달기사에게 알람이 가고, 점주에게도 알람이 갑니다. 역시 Android/iOS 동시 출시를 진행했고, 배달기사용 앱까지 함께 제작하였습니다. 현재 Google Playstore에서는 내려갔네요.
 * 회사 : 외주
 * 개발 기술 : react-native, java, objective-c, redux
 * 담당 업무
@@ -117,16 +116,23 @@
   * 선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
 * facebook : https://www.facebook.com/pg/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-2040387219525892/posts/
 
-<br>
+<br/>
 
-**지비다 부동산 앱 react-native 앱 개발**
-* 개발기간 : 2017.08~2017.11
-* 담당업무 : react-native 기반 클라이언트 앱 담당
-* 개발환경 : react-native, Redux, Objective-c, Java
-* 업무실적 : Google Play Store 출시 10,000 다운로드 유치 / App Store 출시 완료
-Socket 통신 기술 사용하여 메신저 기능 유치 (채팅)
-하나의 앱을 두 가지 사용자(고객, 중개사)로 나눠 뷰를 제공하는 형태로 개발
-부동산 관련 정보를 한 번에 입력할 수 있도록 뷰를 설정
+
+
+**지비다**
+
+<img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> <img src="images/jivida/3.jpg" height="315"/> 
+
+> 2번째 react-native 앱입니다. 이 앱은 로그인 사용자가 중개사인지/고객인지 분리하여 화면을 보여주고 기능또한 분리되어있지만, 하나의 앱으로 동시에 진행했습니다. 중개사와 실시간 채팅이 가능하게 구현했습니다. 
+* 회사 : 외주
+* 개발 기술 : react-native, java, objective-c, redux
+* 담당 업무
+  * Socket 통신 기술 사용하여 메신저 기능 유치 (채팅)
+  * 하나의 앱을 두 가지 사용자(고객, 중개사)로 나눠 뷰를 제공하는 형태로 개발
+  * 부동산 관련 정보를 한 번에 입력할 수 있도록 뷰를 설정
+* facebook : https://www.facebook.com/pg/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-2040387219525892/posts/
+
 
 **중국 ddgo react-native 앱 Baidu 지도 연동**
 * 개발기간 : 2017.07 
