@@ -57,23 +57,9 @@
 
 ## 프로젝트
 
-**Jestina mERP**
-
-> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 전임자분이 MVP 패턴으로 40% 선행개발을 진행해주셔서 진행된 부분을 확인하고 코드를 리뷰하여 나머지 60%의 기능을 개발하였습니다. Android ERP 앱을 먼저 개발한 후 iOS 앱 개발을 진행하였으며, iOS 개발은 프로젝트를 생성하는 것 부터 차근차근 개발해나갔습니다.
-
-* 회사 : J.ESTINA
-* 개발 기술 : Swift4, Android Java
-* 담당 업무
-  * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
-  * Enterprise 출시
-
-<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
-
-
-<br/>
-
-
 **Jestina**
+
+<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
 
 > 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. 입사와 동시에 크리티컬한 오류를 맞이했고(*차마 말 할 수 없음*), 앱을 정상동작 시키기까지 서버/웹개발자와 문제점을 찾아보다 앱에 레거시코드가 굉장한 문제를 일으키고 있음을 알게 되었습니다. TODO로 표기된 부분이 굉장히 많았던 HybridApp. Main 페이지를 로드하는데 시간이 굉장히 오래 걸리는 문제가 생기기에 인트로 이미지를 띄워놓고 뒤에서 메인을 로드하기도 해서 개선된 모습을 도출하기도 하고, 쿠키로 인한 로그인 문제를 개선 했습니다. 
 
@@ -85,13 +71,26 @@
 * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
 * Google PlayStore : https://play.google.com/store/apps/details?id=com.romanson.jestina
 
-<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
+<br/>
 
+**Jestina mERP**
+
+<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
+
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 전임자분이 MVP 패턴으로 40% 선행개발을 진행해주셔서 진행된 부분을 확인하고 코드를 리뷰하여 나머지 60%의 기능을 개발하였습니다. Android ERP 앱을 먼저 개발한 후 iOS 앱 개발을 진행하였으며, iOS 개발은 프로젝트를 생성하는 것 부터 차근차근 개발해나갔습니다.
+
+* 회사 : J.ESTINA
+* 개발 기술 : Swift4, Android Java
+* 담당 업무
+  * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
+  * Enterprise 출시
 
 <br/>
 
 
 **피클플레이**
+
+<img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
 > 스포츠 경기의 승/패를 예상하는 앱이며 누적 다운로드가 20만을 넘었어요. 외주 프로젝트로 진행했습니다. 초기 기획 단계부터 참여하여 빌드업을 해 나갔어요. Swift로 처음 개발하는 프로젝트였지만 해당 앱의 크기가 어마어마했죠. 어마어마한 VC 수와 Modal 수... 생각했던 것 보다 계속해서 크기가 커져가는 앱을 시작할 때 어떤게 중요한지, 클래스 하나를 생성할 때도 추후 사용성을 고려하고 나무보다 숲을 봐야하는 것을 배웠던 앱입니다.  추후 7년차 iOS 개발자님께서 도움을 주셔서 함께 개발을 진행했고, 1차 개발을 완료하고 AppStore출시까지 완료하였습니다. 
 
@@ -101,7 +100,6 @@
   * 앱 초기 설계, 회원가입/로그인,  in-app 결제 연동, 결제, 비디오 스트리밍, 약 30개의 화면 생성 등 초기 빌드 및 1차개발 완료
 * 앱스토어 : 
 
-<img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p3.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p5.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
 <br/>
 
