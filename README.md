@@ -129,11 +129,15 @@ Music background 재생, Facebook 연동, Play List 관리
 * 담당업무 : iOS 개발 / android 유지보수 / web 유지보수
 * 개발환경 : Objective-c, Java, HTML/CSS, JavaScript
 * 업무실적 : 정부과제 대응 플랫폼 업데이트 유치
+<br>
 [iOS]
+<br>
 Objective-c 기개발 프로젝트 하자보수, 유지보수, 업데이트 진행
 총 20회 이상의 Apple App Store 업데이트 진행 (리젝 0회)
 Music Player, Facebook Login 연동, 결제모듈 연동, FireBase Notification 연동 등
 UI/UX 수정, 코드 리팩토링 진행
+<br>
 [Android, Web]
+<br>
 버그 수정, UI/UX 업데이트
 
