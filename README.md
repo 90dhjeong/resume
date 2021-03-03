@@ -24,7 +24,7 @@
 > 퇴사 후(21.03 현재) 모바일 앱 관련 자문 및 유지보수 외주를 진행중입니다.
 
 * 기간: 2019.04 ~ 2020.08 
-* 직급: Software Engineer
+* 직급: 대리
 
 [**Recordfarm**](https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C%ED%8C%9C)
 > 사운드클라운드와 유사한 형태의 국내 인디 음악 플랫폼 Recordfarm에서 iOS 개발을 담당하였습니다.
