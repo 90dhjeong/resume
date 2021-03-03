@@ -20,14 +20,14 @@
 ## 경력
 
 
-[**JESTINA**](https://www.jestina.co,kr/)
+[**JESTINA**](https://www.jestina.co.kr/)
 > 국내 주얼리 업계 1위 제이에스티나의 IT팀에서 모바일 플랫폼 관리를 담당하였습니다.
 > 퇴사 후(21.03 현재) 모바일 앱 관련 자문 및 유지보수 외주를 진행중입니다.
 
 * 기간: 2019.04 ~ 2020.08 
 * 직급: Software Engineer
 
-[**Recordfarm**]
+[**Recordfarm**](https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C%ED%8C%9C)
 > 사운드클라운드와 유사한 형태의 국내 인디 음악 플랫폼 Recordfarm에서 iOS 개발을 담당하였습니다.
 
 * 기간: 2016.8 ~ 2018.10
