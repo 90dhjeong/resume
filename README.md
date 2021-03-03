@@ -105,14 +105,19 @@
 <br/>
 
 
-**온라인 슈퍼마켓 바르게온다 react-native 앱 개발**
-* 개발기간 : 2017.12~2018. 03 
-* 담당 업무 : react-native 기반 클라이언트 앱 담당
-* 개발환경 : react-native, Redux, Objective-c, Java
-* 업무실적 : 개발 완료 및 Google Play Store / App Store 출시 완료
-* 고객용 앱 / 배달원용 앱 2가지 앱을 개발, 실시간 앱 내부 Notification 대응
-선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
-미흡한 react-native 라이브러리를 수정해가며 완성
+**온라인 슈퍼마켓 바르게온다**
+
+<img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
+
+> Android 프로젝트로, UI를 제외한 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현하는 앱이였어요. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드리더기만 있으면 어디서든 결제가 가능합니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 받으러 갔습니다. 혹시나, 설마, TTA 인증심사에서 탈락하면 어떡하지? 하지만 난 시키는대로 잘 했는걸? 개발은 힘들었지만, 심사 통과 결과를 받아들고 혼자 감격에 겨웠던 경험이 있습니다.
+
+* 회사 : 외주
+* 개발 기술 : react-native, java, objective-c, redux
+* 담당 업무
+  * 고객용 앱 / 배달원용 앱 2가지 앱을 개발, 실시간 앱 내부 Notification 대응
+  * 선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
+
+* APK : https://apkpure.com/id/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-%EB%82%B4-%EC%86%90%EC%95%88%EC%9D%98-%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93/com.market.onda
 
 **지비다 부동산 앱 react-native 앱 개발**
 * 개발기간 : 2017.08~2017.11
