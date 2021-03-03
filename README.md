@@ -102,8 +102,6 @@
 * 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
 * Google PlayStore : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
 
-<img src="images/mint/1.png" height="315"/><img src="images/mint/2.png" height="315"/>
-
 <br/>
 
 
