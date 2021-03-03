@@ -12,6 +12,7 @@
 
 ## 목차
 * [경력](#경력)
+* [활동](#활동)
 * [프로젝트](#프로젝트)
 
 <br/>
@@ -37,6 +38,20 @@
 
 * 기간: 2015.02 ~ 2016.02
 * 직급: Assistant
+
+<br/>
+
+## 활동
+
+[**Let us: Go! 2019 Summer**](https://letusgo.app/)
+> <누구나 할 수 있다 Networking>라는 주제로 초급자를 대상으로 REST에 대한 기초와 iOS에서의 Networking 처리를 위한 URLSession와 Alamofire, Moya라는 라이브러리를 사용해보는 실습을 진행했습니다.
+>
+> https://www.slideshare.net/ssuser86f623/networking-159992226
+
+* 기간 : 2019.08.03
+* 내용 : 누구나 할 수 있다 Networking
+
+<img src="images/Slide-Networking/1.jpg" height="165"/> <img src="images/Slide-Networking/2.jpg" height="165"/> <img src="images/Slide-Networking/3.jpg" height="165"/>
 
 <br/>
 
@@ -68,7 +83,7 @@
   * 제이에스티나 자사몰 APP 유지보수, 하자보수, 모니터링, CS대응
 * 홈페이지 : https://m.jestina.co.kr/sp
 * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
-* 구글플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
+* Google PlayStore : https://play.google.com/store/apps/details?id=com.romanson.jestina
 
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
 
@@ -90,22 +105,20 @@
 
 <br/>
 
-**KSNET 민트페이 VAN 통신 / 수기결제 리더기 연동 Android 앱 개발**
-* 개발기간 : 2018.05~2018.09
-* 담당 업무 : 프로젝트 담당 VAN 결제 모듈 개발 / 결제 리더기 블루투스 연동
-* 개발환경 : Android, Java
-* 업무실적 : 개발 완료 및 Google Play Store 출시 완료
-특정 리더기를 블루투스로 연동하여 Socket 통신을 통해 카드 정보를 받아와 실 결제 진행
-Van 사 카드결제 전표 생성 / 결제 완료 처리
-App 무결성 / 루팅방지 처리
-UI/UX 개발
+**MINT**
 
-**Sellev 모바일 웹 기반 react-native 앱 개발**
-* 개발기간 : 2018.04
-* 담당 업무 : react-native 기반 클라이언트 앱 담당
-* 개발환경 : react-native, Redux, Objective-c, Java
-* 업무실적 : React로 개발된 모바일 웹 화면을 React-native앱의 webview에 띄우는 형태로 구현
-webView와 client 통신 Bridge 개발
+> Android 프로젝트로, UI를 제외한 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현하는 앱이였어요. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드리더기만 있으면 어디서든 결제가 가능한거죠. 정말 고생을 많이 했던 프로젝트 였습니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 받으러 갔어야 했어요. 대표님과 함께 갔었는데... 모든 심사 자료를 제출하고 나서 혼자 카페에 앉아 숨 고르기를 했네요. 혹시나, 설마, TTA 인증심사에서 탈락하면 어떡하지? 하지만 난 시키는대로 잘 했는걸? 심사 통과 결과를 받아들고 혼자 감격에 겨웠던 경험이 있습니다.
+
+* 회사 : 외주
+* 개발 기술 : Java
+* 담당 업무
+  * 리더기 연동 후 Socket 통신을 통해 결제 개발, Van사 결제 전표 생성, 결제 완료 처리, App 무결성/루팅방지/암호화 패스워드 개발, 전표 라이브러리 생성
+* 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
+* Google PlayStore : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
+<img src="images/mint/1.png" height="315"/><img src="images/mint/2.png" height="315"/>
+
+<br/>
+
 
 **온라인 슈퍼마켓 바르게온다 react-native 앱 개발**
 * 개발기간 : 2017.12~2018. 03 
