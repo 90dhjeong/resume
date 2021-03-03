@@ -115,6 +115,7 @@
   * 리더기 연동 후 Socket 통신을 통해 결제 개발, Van사 결제 전표 생성, 결제 완료 처리, App 무결성/루팅방지/암호화 패스워드 개발, 전표 라이브러리 생성
 * 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
 * Google PlayStore : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
+
 <img src="images/mint/1.png" height="315"/><img src="images/mint/2.png" height="315"/>
 
 <br/>
