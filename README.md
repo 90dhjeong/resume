@@ -104,7 +104,6 @@
 
 <br/>
 
-
 **온라인 슈퍼마켓 바르게온다**
 
 <img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
@@ -116,8 +115,9 @@
 * 담당 업무
   * 고객용 앱 / 배달원용 앱 2가지 앱을 개발, 실시간 앱 내부 Notification 대응
   * 선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
+* facebook : https://www.facebook.com/pg/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-2040387219525892/posts/
 
-* APK : https://apkpure.com/id/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-%EB%82%B4-%EC%86%90%EC%95%88%EC%9D%98-%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93/com.market.onda
+<br>
 
 **지비다 부동산 앱 react-native 앱 개발**
 * 개발기간 : 2017.08~2017.11
