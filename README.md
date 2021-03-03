@@ -122,7 +122,7 @@
 
 **지비다**
 
-<img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> <img src="images/jivida/3.jpg" height="315"/> 
+<img src="images/jivida/0.jpg" height="315"/> <img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> 
 
 > 2번째 react-native 앱입니다. 이 앱은 로그인 사용자가 중개사인지/고객인지 분리하여 화면을 보여주고 기능또한 분리되어있지만, 하나의 앱으로 동시에 진행했습니다. 중개사와 실시간 채팅이 가능하게 구현했습니다. 
 * 회사 : 외주
