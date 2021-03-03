@@ -131,7 +131,7 @@
   * Socket 통신 기술 사용하여 메신저 기능 유치 (채팅)
   * 하나의 앱을 두 가지 사용자(고객, 중개사)로 나눠 뷰를 제공하는 형태로 개발
   * 부동산 관련 정보를 한 번에 입력할 수 있도록 뷰를 설정
-* facebook : https://www.facebook.com/pg/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-2040387219525892/posts/
+* 뉴스기사 : https://bizn.donga.com/realestate/3/all/20180704/90900695/2
 
 
 **중국 ddgo react-native 앱 Baidu 지도 연동**
