@@ -133,23 +133,23 @@
   * 부동산 관련 정보를 한 번에 입력할 수 있도록 뷰를 설정
 * 뉴스기사 : https://bizn.donga.com/realestate/3/all/20180704/90900695/2
 
+</br>
 
-**중국 ddgo react-native 앱 Baidu 지도 연동**
-* 개발기간 : 2017.07 
-* 담당업무 : react-native 라이브러리 수정 및 유지보수 진행
-* 개발환경 : react-native, Redux, Objective-c, Java
-* 업무실적 : Baidu 지도 연동 완료
-Baidu Map SDK 연동하여 react-native 앱 개발
-기본 baidu map library가 미흡하여 라이브러리 수정하여 개발
 
-**시와 시 사이 - 시간  iOS 시 낭독 앱 초기 구현**
-* 개발기간 : 2017.06
-* 담당업무 : 프로젝트 담당자 및 기획 소통, iOS 앱 초기개발 및 등재
-* 개발환경 : Objective-c
-* 업무실적 : 초기 App Store 출시, Reject 대응
-Objective-c 신규 앱 개발 진행, 클라이언트 사와 소통하며 개발 진행
-Music background 재생, Facebook 연동, Play List 관리
-초기 데이터 부족으로 Demo 버전 app store 리젝 대응 및 출시 완료
+**시와 시 사이 - 시간**
+
+<img src="images/time/1.jpg" height="315"/> <img src="images/time/2.jpg" height="315"/> <img src="images/time/3.jpg" height="315"/> 
+
+> 마지막 Objective-c 프로젝트입니다.  첫 외주기도 하지요. 앱 기획만 나왔던 상황으로 서버개발자, iOS개발자(저), 기획자 세명이서 함께 앱 하나를 만들어나갔습니다. 음악을 재생하고 백그라운드 재생을 하고, 위치 및 습도를 받아와 표기하는 시 낭독 앱입니다. 스트리밍 서버 비용의 부담으로 인하여 현재는 앱서비스를 쉬어가는 상태입니다.
+* 회사 : 외주
+* 개발 기술 : Objective-c
+* 담당 업무
+  * 클라이언트와 소통하여 앱의 기획 분석, 설계, 개발단계를 함께 했습니다.
+  * 음악 스트리밍, 페이스북 연동, 플레이리스트 관리, 현재 위치와 습도를 기준으로 시 추천
+  * 앱 스토어 초기 등재 및 리젝 대응, 출시
+* 페이스북 : https://www.facebook.com/timeforpoetry/photos/a.241268809638988/707802439652287/?type=3&theater
+
+</br>
 
 **레코드팜 iOS 앱 (v3.2.3~4.1.2)**
 * 개발기간: 2016.08~2017.05 
