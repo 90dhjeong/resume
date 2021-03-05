@@ -151,21 +151,22 @@
 
 </br>
 
-**레코드팜 iOS 앱 (v3.2.3~4.1.2)**
-* 개발기간: 2016.08~2017.05 
-* 담당업무 : iOS 개발 / android 유지보수 / web 유지보수
-* 개발환경 : Objective-c, Java, HTML/CSS, JavaScript
-* 업무실적 : 정부과제 대응 플랫폼 업데이트 유치
-[iOS]
-Objective-c 기개발 프로젝트 하자보수, 유지보수, 업데이트 진행
-총 20회 이상의 Apple App Store 업데이트 진행 (리젝 0회)
-Music Player, Facebook Login 연동, 결제모듈 연동, FireBase Notification 연동 등
-UI/UX 수정, 코드 리팩토링 진행
-[Android, Web]
-버그 수정, UI/UX 업데이트
 
+**레코드팜**
 
-회사 : 외주
-개발 기술 : Objective-C
-담당 업무
-iOS 앱 신규 개발
+<img src="images/Recordfarm/1.jpeg" height="315"/> <img src="images/Recordfarm/2.jpeg" height="315"/> <img src="images/Recordfarm/3.jpeg" height="315"/>   <img src="images/Recordfarm/4.jpeg" height="315"/> 
+
+> 첫번째 Objective-c 프로젝트로 초기 프로젝트는 외주를 통해 진행되었고 입사 후 메인페이지 개편을 진행하며 프로젝트의 전반적인 상태를 확인하였습니다. 초반 선임개발자에게 인수인계를 2달 간 받았습니다. iOS 앱의 특징 iOS 프로젝트의 생태계, Objective-c에 대해 공부하는 시간을 많이 가졌습니다. 100만 MAU를 유지하던 플랫폼인 만큼 작은 버그도 없도록 혼자서라도 코드리뷰를 진행했고, 사내에선 Trello를 통한 애자일-스프린트를 통해 개발 내용을 공유하였습니다. 현재는 인수합병이 되어 기억속으로 사라진 플랫폼입니다.
+
+* 회사 : Recordfarm
+* 개발 기술 : Objective-c / Trello / GitHub
+* 담당 업무
+  * Objective-c 기개발 프로젝트 하자보수, 유지보수, 업데이트 진행
+  * Music Player, Widget, Facebook Login 연동, 결제모듈 연동, FCM 연동
+  * 녹음파일 생성 및 파일 시스템 관리, 음악 파일 다운로드
+  * UI/UX 수정, 코드 리팩토링 진행
+  * 간헐적으로 Android 버그 수정 및 UI/UX 업데이트
+* 나무위키 : https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C%ED%8C%9C
+
+</br>
+
