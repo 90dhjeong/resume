@@ -86,7 +86,7 @@
 
 **Jestina**
 
-<img src="images/Jestina/jestina/1.jpeg" height="315"/> <img src="images/Jestina/jestina/2.jpeg" height="315"/> <img src="images/Jestina/jestina/3.jpeg" height="315"/> 
+<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
 
 > 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. TODO로 표기된 부분이 굉장히 많았던 HybridApp. Main 페이지를 로드하는데 시간이 굉장히 오래 걸리는 문제가 생기기에 인트로 이미지를 띄워놓고 뒤에서 메인을 로드하기도 해서 개선된 모습을 도출하기도 하고, 쿠키로 인한 로그인 문제를 개선 했습니다. 
 
@@ -117,7 +117,7 @@
 
 **피클플레이**
 
-<img src="images/pickle/p1.jpeg" height="315"/><img src="images/pickle/p4.jpeg" height="315"/><img src="images/pickle/p2.jpeg" height="315"/><img src="images/pickle/p6.jpeg" height="315"/>
+<img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
 > 스포츠 경기의 승/패를 예상하는 앱이며 누적 다운로드가 20만을 넘었습니다. 초기 기획 단계부터 참여하여 빌드업을 해 나갔으며 Swift로 처음 개발하는 프로젝트였어요. 크기가 큰 앱 개발을 초기 단계부터 시작할 때 클래스 하나를 생성할 때도 추후 사용성을 고려하고 나무보다 숲을 봐야하는 것을 배웠던 앱입니다. 1차 개발을 완료하고 AppStore출시까지 완료하였습니다. 
 
