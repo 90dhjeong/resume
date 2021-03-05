@@ -18,14 +18,21 @@
 
 
 ## 목차
+* [학력](#학력)
 * [경력](#경력)
+* [기술](#기술)
 * [활동](#활동)
 * [프로젝트](#프로젝트)
 
 <br/>
 
-## 경력
+## 학력
+*  동덕여자대학교 컴퓨터학과 (2012 ~ 2016)
 
+<br/>
+
+
+## 경력
 
 [**JESTINA**](https://www.jestina.co.kr/)
 > 국내 주얼리 업계 1위 제이에스티나의 IT팀에서 모바일 플랫폼 관리를 담당하였습니다.
@@ -45,6 +52,20 @@
 
 * 기간: 2015.02 ~ 2016.02
 * 직급: Assistant
+
+<br/>
+
+## 기술
+
+### Mobile
+- Swift
+- Android java
+- MVC, MVP, MVVM Pattern
+
+### Process
+- 커뮤니케이션 - Slack
+- 이슈관리 - Trello
+- 버전관리 - Git(Bitbucket/SourceTree)
 
 <br/>
 
