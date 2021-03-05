@@ -154,7 +154,7 @@
 
 **레코드팜**
 
-<img src="images/Recordfarm/1.jpeg" height="315"/> <img src="images/Recordfarm/2.jpeg" height="315"/> <img src="images/Recordfarm/3.jpeg" height="315"/>   <img src="images/Recordfarm/4.jpeg" height="315"/> 
+<img src="images/Recordfarm/1.jpeg" height="315"/> <img src="images/Recordfarm/2.png" height="315"/> <img src="images/Recordfarm/3.jpeg" height="315"/>   <img src="images/Recordfarm/4.jpeg" height="315"/> 
 
 > 첫번째 Objective-c 프로젝트로 초기 프로젝트는 외주를 통해 진행되었고 입사 후 메인페이지 개편을 진행하며 프로젝트의 전반적인 상태를 확인하였습니다. 초반 선임개발자에게 인수인계를 2달 간 받았습니다. iOS 앱의 특징 iOS 프로젝트의 생태계, Objective-c에 대해 공부하는 시간을 많이 가졌습니다. 100만 MAU를 유지하던 플랫폼인 만큼 작은 버그도 없도록 혼자서라도 코드리뷰를 진행했고, 사내에선 Trello를 통한 애자일-스프린트를 통해 개발 내용을 공유하였습니다. 현재는 인수합병이 되어 기억속으로 사라진 플랫폼입니다.
 
