@@ -9,7 +9,7 @@
 경력 5년차가 되고 나를 돌아보는 시간이 필요했습니다.</br>
 전공으로 흐르듯 개발자 되었다는 생각에 **개발이 정말 내가 하고 싶은 일인지**에 대한 질문을 계속 던졌습니다. </br>
 그 답은 **XCode 빌드 한 번에 정리**되었습니다.</br>
-**논리적인 코드**를 작성하고, 컨퍼런스에서 세션을 진행하며 **최신 개발 트렌드**를 읽어가는 개발자가 되는 꿈을 꾸고 있습니다. </br>
+**논리적인 코드**를 작성하고, 컨퍼런스에서 세션을 진행하며 **최신 개발 트렌드**를 읽어가는 개발자가 되고자 합니다.</br>
 
 * Email: [90dhjeong@gmail.com](mailto://90dhjeong@gmail.com)
 * Github: [github.com/90dhjeong](https://github.com/90dhjeong)
@@ -111,6 +111,21 @@
 * 담당 업무
   * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
   * Enterprise 출시
+
+</br>
+
+**HeyStars**
+
+<img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
+
+> 외주로 진행한 하이브리드 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase로 푸시서버를 구현하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
+
+* 회사 : 외주
+* 개발 기술 : Swift4, Android Java
+* 담당 업무
+  * 신규 프로젝트 환경 설정,  AppStore 출시
+  * Youtube 영상 inline처리, FCM, 
+  * 음성 녹음 및 녹음파일 서버 통신
 
 </br>
 
