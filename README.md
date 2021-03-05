@@ -126,6 +126,8 @@
   * 신규 프로젝트 환경 설정,  AppStore 출시
   * Youtube 영상 inline처리, FCM, 
   * 음성 녹음 및 녹음파일 서버 통신
+* 앱스토어 : https://apps.apple.com/vn/app/heystars-%ED%97%A4%EC%9D%B4%EC%8A%A4%ED%83%80%EC%A6%88/id1493475120#?platform=iphone
+
 
 </br>
 
