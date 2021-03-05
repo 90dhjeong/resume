@@ -88,7 +88,7 @@
 
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
 
-> 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. TODO로 표기된 부분이 굉장히 많았던 HybridApp. Main 페이지를 로드하는데 시간이 굉장히 오래 걸리는 문제가 생기기에 인트로 이미지를 띄워놓고 뒤에서 메인을 로드하기도 해서 개선된 모습을 도출하기도 하고, 쿠키로 인한 로그인 문제를 개선 했습니다. 
+> 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. 속도 개선, 쿠키로 인한 로그인 문제를 개선하는 등 Hybrid앱의 사용자 경험 최적화를 목표로 유지보수, 하자보수를 진행하였습니다.
 
 * 회사 : J.ESTINA
 * 개발 기술 : Swift4, Android Java
@@ -104,7 +104,7 @@
 
 <img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
 
-> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 전임자분이 MVP 패턴으로 40% 선행개발을 진행해주셔서 진행된 부분을 확인하고 코드를 리뷰하여 나머지 60%의 기능을 개발하였습니다. Android ERP 앱을 먼저 개발한 후 iOS 앱 개발을 진행하였으며, iOS 개발은 프로젝트를 생성하는 것 부터 차근차근 개발해 나갔습니다.
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 MVP 패턴으로 구현하였으며, iOS 개발은 프로젝트 생성부터 종료까지 진행하였습니다. 
 
 * 회사 : J.ESTINA
 * 개발 기술 : Swift4, Android Java
@@ -134,7 +134,7 @@
 
 <img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
-> 스포츠 경기의 승/패를 예상하는 앱이며 누적 다운로드가 20만을 넘었습니다. 초기 기획 단계부터 참여하여 빌드업을 해 나갔으며 Swift로 처음 개발하는 프로젝트였어요. 크기가 큰 앱 개발을 초기 단계부터 시작할 때 클래스 하나를 생성할 때도 추후 사용성을 고려하고 나무보다 숲을 봐야하는 것을 배웠던 앱입니다. 1차 개발을 완료하고 AppStore출시까지 완료하였습니다. 
+> 스포츠 경기의 승/패를 예상하는 앱으로, 잼라이브와 유사하지만 좀 더 기능이 많은 앱입니다. Android기준 다운로드가 20만을 넘었습니다. 초기 기획 단계부터 참여하여 빌드업을 해 나갔습니다. 비디오 스트리밍/스트리밍 화면이 시간이 지날 때 까지 종료되지 않도록 하는 기능, 인앱결제를 구현하고 랭킹을 보여주며 Select Box를 경우에 따라 다르게 보여주는 등 UI적으로 굉장히 공을 들였습니다. 크기가 큰 앱 개발을 초기 단계부터 시작할 때 클래스 하나를 생성할 때도 추후 사용성을 고려하고 나무보다 숲을 봐야하는 것을 배웠던 앱입니다. 1차 개발을 완료하고 AppStore출시까지 완료하였습니다. 
 
 * 회사 : 외주
 * 개발 기술 : Swift4
@@ -149,7 +149,7 @@
 
 <img src="images/mint/1.png" height="315"/>  <img src="images/mint/2.png" height="315"/>
 
-> Android 프로젝트로, UI를 제외한 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현하는 앱이였어요. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드리더기만 있으면 어디서든 결제가 가능합니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 받으러 갔습니다. 혹시나, 설마, TTA 인증심사에서 탈락하면 어떡하지? 하지만 난 시키는대로 잘 했는걸? 개발은 힘들었지만, 심사 통과 결과를 받아들고 혼자 감격에 겨웠던 경험이 있습니다.
+> 처음 작업해본 금융 앱입니다. Android 프로젝트로, UI를 제외한 개발에 참여했습니다. 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현했습니다. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드 리더기만 있으면 어디서든 결제가 가능한 것이 핵심이였습니다. 전표를 생성하는 것, 결제전표를 생성한 뒤 리턴되는 승인전표 값을 분석하고 블루투스 통신을 하는 부분이 어려웠지만, 무사히 개발을 마쳤습니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 진행했고 모든 항목에서 안정성을 인정받아 정상적으로 카드결제가 가능한 앱으로 출시되었습니다. 
 
 * 회사 : 외주
 * 개발 기술 : Java
@@ -164,7 +164,7 @@
 
 <img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
 
-> 3번째 react-native 앱입니다. 온라인 슈퍼마켓으로 현재의 배달의민족 B마트와 유사해요. 사용자가 결제를 완료하면 배달기사에게 알람이 가고, 점주에게도 알람이 갑니다. 역시 Android/iOS 동시 출시를 진행했고, 배달기사용 앱까지 함께 제작하였습니다. 현재 Google Playstore에서는 내려갔네요.
+> react-native 앱입니다. 온라인 슈퍼마켓으로 현재의 배달의민족 B마트와 유사합니다. 사용자가 결제를 완료하면 배달기사에게 알람이 가고, 점주에게도 알람이 가도록 푸시서버 설계를 진행했습니다. Android/iOS 동시 출시까지 완료하였으며  배달기사용 앱까지 함께 제작하였습니다. 현재 Google Playstore에서는 내려갔네요.
 * 회사 : 외주
 * 개발 기술 : react-native, java, objective-c, redux
 * 담당 업무
@@ -180,7 +180,8 @@
 
 <img src="images/jivida/0.jpg" height="315"/> <img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> 
 
-> 2번째 react-native 앱입니다. 이 앱은 로그인 사용자가 중개사인지/고객인지 분리하여 화면을 보여주고 기능또한 분리되어있지만, 하나의 앱으로 동시에 진행했습니다. 중개사와 실시간 채팅이 가능하게 구현했습니다. 
+> react-native 앱입니다. 이 앱은 로그인 사용자가 중개사인지/고객인지 분리하여   하나의 앱으로 동시에 두가지 타입의 사용자를 설정할 수 있도록 진행했습니다. 중개사와 Socket 통신을 통해 실시간 채팅이 가능하게 구현했습니다. 
+
 * 회사 : 외주
 * 개발 기술 : react-native, java, objective-c, redux
 * 담당 업무
@@ -196,7 +197,8 @@
 
 <img src="images/time/1.jpg" height="315"/> <img src="images/time/2.jpg" height="315"/> <img src="images/time/3.jpg" height="315"/> 
 
-> 마지막 Objective-c 프로젝트입니다.  첫 외주기도 하지요. 앱 기획만 나왔던 상황으로 서버개발자, iOS개발자(저), 기획자 세명이서 함께 앱 하나를 만들어나갔습니다. 음악을 재생하고 백그라운드 재생을 하고, 위치 및 습도를 받아와 표기하는 시 낭독 앱입니다. 스트리밍 서버 비용의 부담으로 인하여 현재는 앱서비스를 쉬어가는 상태입니다.
+> Objective-c 프로젝트로 첫 외주로 음악을 재생하고 백그라운드 재생을 하고, 위치 및 습도를 받아와 표기하는 시 낭독 앱입니다. 스트리밍 서버 비용의 부담으로 인하여 현재는 앱서비스를 쉬어가는 상태입니다.
+
 * 회사 : 외주
 * 개발 기술 : Objective-c
 * 담당 업무
