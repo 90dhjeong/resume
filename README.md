@@ -86,7 +86,7 @@
 
 **Jestina**
 
-<img src="images/jestina/jestina/1.jpeg" height="315"/> <img src="images/jestina/jestina/2.jpeg" height="315"/> <img src="images/jestina/jestina/3.jpeg" height="315"/> 
+<img src="images/Jestina/jestina/1.jpeg" height="315"/> <img src="images/Jestina/jestina/2.jpeg" height="315"/> <img src="images/Jestina/jestina/3.jpeg" height="315"/> 
 
 > 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. TODO로 표기된 부분이 굉장히 많았던 HybridApp. Main 페이지를 로드하는데 시간이 굉장히 오래 걸리는 문제가 생기기에 인트로 이미지를 띄워놓고 뒤에서 메인을 로드하기도 해서 개선된 모습을 도출하기도 하고, 쿠키로 인한 로그인 문제를 개선 했습니다. 
 
@@ -102,7 +102,7 @@
 
 **Jestina mERP**
 
-<img src="images/jestina/mobileERP/1.png" height="315"/> <img src="images/jestina/mobileERP/2.png" height="315"/> <img src="images/jestina/mobileERP/3.png" height="315"/> 
+<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
 
 > 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 전임자분이 MVP 패턴으로 40% 선행개발을 진행해주셔서 진행된 부분을 확인하고 코드를 리뷰하여 나머지 60%의 기능을 개발하였습니다. Android ERP 앱을 먼저 개발한 후 iOS 앱 개발을 진행하였으며, iOS 개발은 프로젝트를 생성하는 것 부터 차근차근 개발해 나갔습니다.
 
@@ -111,21 +111,6 @@
 * 담당 업무
   * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
   * Enterprise 출시
-
-<br/>
-
-**Heystars**
-
-<img src="images/time/1.jpg" height="315"/> <img src="images/time/2.jpg" height="315"/> <img src="images/time/3.jpg" height="315"/> 
-
-> 마지막 Objective-c 프로젝트입니다.  첫 외주기도 하지요. 앱 기획만 나왔던 상황으로 서버개발자, iOS개발자(저), 기획자 세명이서 함께 앱 하나를 만들어나갔습니다. 음악을 재생하고 백그라운드 재생을 하고, 위치 및 습도를 받아와 표기하는 시 낭독 앱입니다. 스트리밍 서버 비용의 부담으로 인하여 현재는 앱서비스를 쉬어가는 상태입니다.
-* 회사 : 외주
-* 개발 기술 : Objective-c
-* 담당 업무
-  * 클라이언트와 소통하여 앱의 기획 분석, 설계, 개발단계를 함께 했습니다.
-  * 음악 스트리밍, 페이스북 연동, 플레이리스트 관리, 현재 위치와 습도를 기준으로 시 추천
-  * 앱 스토어 초기 등재 및 리젝 대응, 출시
-* 페이스북 : https://www.facebook.com/timeforpoetry/photos/a.241268809638988/707802439652287/?type=3&theater
 
 </br>
 
