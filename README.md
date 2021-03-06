@@ -96,7 +96,7 @@
   * 제이에스티나 자사몰 APP 유지보수, 하자보수, 모니터링, CS대응
 * 홈페이지 : https://m.jestina.co.kr/sp
 * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
-* Google PlayStore : https://play.google.com/store/apps/details?id=com.romanson.jestina
+* 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
 
 <br/>
 
@@ -142,7 +142,7 @@
 * 개발 기술 : Swift4
 * 담당 업무
   * 앱 초기 설계, 회원가입/로그인,  in-app 결제 연동, 결제, 비디오 스트리밍 등 초기 앱 설계 및 1차 개발 완료, 앱스토어 등재
-* 구글 플레이스토어 : https://play.google.com/store/apps/details?id=com.wagti.pickle&hl=ko
+* 플레이스토어 : https://play.google.com/store/apps/details?id=com.wagti.pickle&hl=ko
 
 
 <br/>
@@ -158,7 +158,7 @@
 * 담당 업무
   * 리더기 연동 후 Socket 통신을 통해 카드 정보 읽어와 Van사 결제 전표 생성, MS/IC결제 완료 처리, App 무결성/루팅방지/암호화 패스워드 개발, 전표 라이브러리 생성
 * 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
-* Google PlayStore : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
+* 플레이스토어 : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
 
 <br/>
 
