@@ -104,12 +104,27 @@
 
 <img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
 
-> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Android/iOS 앱으로 구현하는 프로젝트 입니다. Android는 MVP 패턴으로 구현하였으며, iOS 개발은 프로젝트 생성부터 종료까지 진행하였습니다. 
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Native Android/iOS 앱으로 구현한 프로젝트 입니다. Android는 MVP 패턴으로 구현하였으며, iOS 개발은 프로젝트 생성부터 종료까지 진행하였습니다. 
 
 * 회사 : J.ESTINA
 * 개발 기술 : Swift4, Android Java
 * 담당 업무
   * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
+  * Enterprise 출시
+
+</br>
+
+**Jestina 매장직원용 앱**
+
+<img src="images/Jestina/store/1.png" width="315"/> <img src="images/Jestina/store/2.jpg" width="315"/> 
+
+> 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회/사용되는 iPad앱으로 Hybrid 기반입니다. 초기 앱 기획부터 운영, 개발사 미팅 등 앱 개발의 전체적인 부분에 참여하였으며 Webview 파일 다운로드 기능을 개발하였습니다.
+
+* 회사 : J.ESTINA
+* 개발 기술 : Swift4
+* 담당 업무
+  * 기획 및 페이지 설계, 운영
+  * 웹앱 구현, Webview 파일 다운로드 구현
   * Enterprise 출시
 
 </br>
