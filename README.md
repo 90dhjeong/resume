@@ -118,13 +118,13 @@
 
 <img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
 
-> 외주로 진행한 하이브리드 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase로 푸시서버를 구현하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
+> 외주로 진행한 하이브리드 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase를 사용하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
 
 * 회사 : 외주
 * 개발 기술 : Swift4
 * 담당 업무
   * 신규 프로젝트 환경 설정,  AppStore 출시
-  * Youtube 영상 inline처리, FCM, 
+  * Youtube 영상 inline처리, FCM
   * 음성 녹음 및 녹음파일 서버 통신
 * 앱스토어 : https://apps.apple.com/vn/app/heystars-%ED%97%A4%EC%9D%B4%EC%8A%A4%ED%83%80%EC%A6%88/id1493475120#?platform=iphone
 
