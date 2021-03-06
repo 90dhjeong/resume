@@ -142,7 +142,7 @@
 * 개발 기술 : Swift4
 * 담당 업무
   * 앱 초기 설계, 회원가입/로그인,  in-app 결제 연동, 결제, 비디오 스트리밍 등 초기 앱 설계 및 1차 개발 완료, 앱스토어 등재
-* 앱스토어 : 
+* 구글 플레이스토어 : https://play.google.com/store/apps/details?id=com.wagti.pickle&hl=ko
 
 
 <br/>
