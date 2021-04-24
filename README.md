@@ -133,7 +133,7 @@
 
 <img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
 
-> 외주로 진행한 하이브리드 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase를 사용하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
+> 외주로 진행한 Hybrid 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase를 사용하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
 
 * 회사 : 외주
 * 개발 기술 : Swift4
@@ -171,7 +171,10 @@
 * 회사 : 외주
 * 개발 기술 : Java
 * 담당 업무
-  * 리더기 연동 후 Socket 통신을 통해 카드 정보 읽어와 Van사 결제 전표 생성, MS/IC결제 완료 처리, App 무결성/루팅방지/암호화 패스워드 개발, 전표 라이브러리 생성
+  * 리더기 연동 후 Socket 통신을 통해 카드 정보 읽어와 Van사 결제 전표 생성
+  * MS/IC결제 완료 처리
+  * App 무결성/루팅방지/암호화 패스워드 개발
+  * 전표 라이브러리 생성
 * 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
 * 플레이스토어 : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
 
@@ -219,7 +222,7 @@
 * 회사 : 외주
 * 개발 기술 : Objective-c
 * 담당 업무
-  * 클라이언트와 소통하여 앱의 기획 분석, 설계, 개발단계를 함께 했습니다.
+  * 클라이언트와 소통하여 앱의 기획 분석, 설계, 개발 진행
   * 음악 스트리밍, 페이스북 연동, 플레이리스트 관리, 현재 위치와 습도를 기준으로 시 추천
   * 앱 스토어 초기 등재 및 리젝 대응, 출시
 * 페이스북 : https://www.facebook.com/timeforpoetry/photos/a.241268809638988/707802439652287/?type=3&theater
