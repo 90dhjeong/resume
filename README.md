@@ -36,7 +36,7 @@
 ## 경력
 
 [**JESTINA**](https://www.jestina.co.kr/)
-> 국내 주얼리 업계 1위 제이에스티나의 IT팀에서 모바일 앱 개발/관리를 담당하였습니다.
+> 제이에스티나의 IT팀에서 모바일 앱 개발/관리를 담당하였습니다.
 > 퇴사 후 모바일 앱 관련 자문 및 유지보수 외주를 진행중입니다.
 
 * 기간: 2019.04 ~ 2020.08 
@@ -77,7 +77,7 @@
 ## 활동
 
 [**덕성여자대학교 스마트창작터(중소기업청 정부지원사업)**](https://m.blog.naver.com/PostView.nhn?blogId=dswuniv_blog&logNo=220802103586&proxyReferer=https:%2F%2Fwww.google.com%2F)
-> 중소기업청주관 정부지원사업 덕성여자대학교 스마트창작터에서 선발되어 창업팀의 개발팀장을 역임하였습니다.
+> 중소기업청주관 정부지원사업 덕성여자대학교 스마트창작터에서 창업지원팀으로 선발되어 창업팀의 개발팀장을 역임하였습니다.
 > 마이포켓클로젯이라는 옷장관리 어플리케이션을 기반으로 창업을 진행하였습니다. 
 
 * 기간 : 2015.04~2015.11
@@ -98,9 +98,9 @@
 * 개발 기술 : Swift4, Android Java
 * 담당 업무
   * 제이에스티나 자사몰 APP 유지보수, 하자보수, 모니터링, CS대응
-* 홈페이지 : https://m.jestina.co.kr/sp
-* 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
-* 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
+  * 홈페이지 : https://m.jestina.co.kr/sp
+  * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
+  * 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
 
 <br/>
 
