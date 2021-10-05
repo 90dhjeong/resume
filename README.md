@@ -90,7 +90,7 @@
 
 **Jestina**
 
-<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> img src="images/Trello/trello1.png" width="400"/> 
+<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> <img src="images/Trello/trello1.png" width="400"/> 
 
 > Hybrid 앱으로 기출시된 Android, iOS 앱의 유지보수/하자보수 업무를 맡아  배포하고 운영하였습니다.
 
