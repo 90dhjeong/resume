@@ -92,15 +92,17 @@
 
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
 
-> 제이에스티나의 자사몰 앱은 WKWebView로 구현되어 있습니다. 속도 개선, 쿠키로 인한 로그인 문제를 개선하는 등 Hybrid앱의 사용자 경험 최적화를 목표로 유지보수, 하자보수를 진행하였습니다.
+> Hybrid 앱으로 기출시된 Android, iOS 앱의 유지보수/하자보수 업무를 맡아  배포하고 운영하였습니다.
 
 * 회사 : J.ESTINA
-* 개발 기술 : Swift4, Android Java
+* 사용 기술 : Swift4, Android Java, Trello, Bitbucket
 * 담당 업무
-  * 제이에스티나 자사몰 APP 유지보수, 하자보수, 모니터링, CS대응
-  * 홈페이지 : https://m.jestina.co.kr/sp
-  * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
-  * 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
+  * 제이에스티나 자사몰 Android, iOS 앱 배포
+  * 리뷰 및 운영팀의 피드백에 따라 성능 / 사용성 개선
+  * FCM Notification 추가, 앱 푸시 알림 분기, 자동로그인 기능 추가, webView 쿠키 관리 등
+* 홈페이지 : https://m.jestina.co.kr/sp
+* 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
+* 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
 
 <br/>
 
