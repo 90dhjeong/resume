@@ -36,23 +36,27 @@
 ## 경력
 
 [**JESTINA**](https://www.jestina.co.kr/)
-> 국내 주얼리 업계 1위 제이에스티나의 IT팀에서 모바일 플랫폼 관리를 담당하였습니다.
-> 퇴사 후(21.03 현재) 모바일 앱 관련 자문 및 유지보수 외주를 진행중입니다.
+> 국내 주얼리 업계 1위 제이에스티나의 IT팀에서 모바일 앱 개발/관리를 담당하였습니다.
+> 퇴사 후 모바일 앱 관련 자문 및 유지보수 외주를 진행중입니다.
 
 * 기간: 2019.04 ~ 2020.08 
 * 직급: 대리
+* 기술: Android, Swift, Bitbucket
 
 [**Recordfarm**](https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C%ED%8C%9C)
 > 사운드클라운드와 유사한 형태의 국내 인디 음악 플랫폼 Recordfarm에서 iOS 개발을 담당하였습니다.
+> 이후 업종전환으로 SI/SM을 담당하였습니다.
 
 * 기간: 2016.8 ~ 2018.10
 * 직급: Software Engineer
+* 기술: Objective-c, Swift, Github, Trello, SourceTree, Slack, React-native
 
 [**nemodigm**](http://www.nemodigm.com/home/index.php?pid=kr)
 > 개인의 취향을 기반으로 Youtube 음악을 재생해주는 Android 앱 개발을 담당하였습니다.
 
 * 기간: 2015.02 ~ 2016.02
 * 직급: Assistant
+* 기술: Android
 
 <br/>
 
