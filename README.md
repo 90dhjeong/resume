@@ -6,10 +6,10 @@
 정다혜(Dahye Jeong)
 =========================
 
-경력 5년차가 되고 나를 돌아보는 시간이 필요했습니다.</br>
-전공으로 흐르듯 개발자 되었다는 생각에 **개발이 정말 내가 하고 싶은 일인지**에 대한 질문을 계속 던졌습니다. </br>
-그 답은 **XCode 빌드 한 번에 정리**되었습니다.</br>
-**논리적인 코드**를 작성하고, 컨퍼런스에서 세션을 진행하며 **최신 개발 트렌드**를 읽어가는 개발자가 되고자 합니다.</br>
+경력 5년차, Android, iOS, react-native 기술을 경험하였고 **iOS 앱 개발**을 하고 있습니다.</br>
+계획을 세우는 것을 좋아하고, 절차에 맞게 이행하여 체크리스트에 완료 체크를 하는 것이 가장 즐겁습니다.</br>
+**논리적인 코드**를 작성하고, 컨퍼런스에서 세션을 진행하며 **최신 개발 트렌드**를 읽어가며</br>
+**iOS 앱 개발**에서 **문제 해결 능력이 뛰어난** **경험 많은 개발자**가 되는 것이 목표입니다.</br>
 
 * Email: [90dhjeong@gmail.com](mailto://90dhjeong@gmail.com)
 * Github: [github.com/90dhjeong](https://github.com/90dhjeong)
@@ -90,7 +90,7 @@
 
 **Jestina**
 
-<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> 
+<img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> img src="images/Trello/trello1.png" width="400"/> 
 
 > Hybrid 앱으로 기출시된 Android, iOS 앱의 유지보수/하자보수 업무를 맡아  배포하고 운영하였습니다.
 
