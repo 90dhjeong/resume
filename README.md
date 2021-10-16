@@ -237,14 +237,11 @@
 
 * 연계/소속회사 : Recordfarm/외주
 * 프로젝트 기간: 2018.05~2018.09 (5개월)
-* 개발 환경: Android Studio
-* 개발 언어/라이브러리:  java
-
-* 회사 : 외주
-* 개발 기술 : react-native, java, objective-c, redux
-* 담당 업무
-  * 고객용 앱 / 배달원용 앱 2가지 앱을 개발, 실시간 앱 내부 Notification 대응
-  * 선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
+* 개발 환경: WebStrom, Xcode, Android Studio
+* 개발 언어/라이브러리:  react-native, Redux, Objective-c, Java
+* 상세 업무
+    * 고객용 앱 / 배달원용 앱 2가지 앱을 개발, 실시간 앱 내부 Notification 대응
+    * 선택 상품 결제 기능, 장바구니 기능, 결제 완료 처리 및 배달 상태 제공
 * facebook : https://www.facebook.com/pg/%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%98%A8%EB%8B%A4-2040387219525892/posts/
 
 <br/>
