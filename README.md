@@ -166,7 +166,7 @@
 
 > 외주로 진행한 Hybrid 앱 프로젝트 입니다. Youtube inline, 음성녹음 기능을 개발하였으며 신규 앱 출시를 성공적으로 마쳤습니다.
 
-* 연계/소속회사 : HeyStars(외주)
+* 연계/소속회사 : HeyStars/외주
 * 프로젝트 기간 : 약 3주
 * 개발 환경 : Xcode
 * 개발 언어/라이브러리 : Swift, Alamofire, AudioKit, SnapKit, Firebase/Messaging
@@ -187,7 +187,7 @@
 
 > 당일 진행되는 스포츠게임의 목록을 비디오로 보여준 뒤 결과를 예상하고, 정답을 맞춘 모든 사용자에게 상금을 나눠주는 iOS Native 앱 프로젝트 입니다.
 
-* 연계/소속회사 : Recordfarm/Codecrain
+* 연계/소속회사 : Wagti/외주
 * 프로젝트 기간: 2018.10~2019.01 (4개월)
 * 개발 환경: Xcode
 * 개발 언어/라이브러리: iOS: Swift, Alamofire, SwiftyStoreKit, SwiftyJSON, SwiftDate, Firebase/Messaging, Kingfisher, IAPHelper 등
@@ -208,17 +208,25 @@
 
 <img src="images/mint/1.png" height="315"/>  <img src="images/mint/2.png" height="315"/>
 
-> 처음 작업해본 금융 앱입니다. Android 프로젝트로, UI를 제외한 개발에 참여했습니다. 블루투스 카드리더기 연동을 진행한 후 Socket통신을 통해 카드정보를 받아와 실제로 결제가 되도록 구현했습니다. PDA와 유사하지만, 앱을 설치하고 KSNET의 블루투스 카드 리더기만 있으면 어디서든 결제가 가능한 것이 핵심이였습니다. 전표를 생성하는 것, 결제전표를 생성한 뒤 리턴되는 승인전표 값을 분석하고 블루투스 통신을 하는 부분이 어려웠지만, 무사히 개발을 마쳤습니다. 앱을 출시하기 위해서 여신금융협회 TTA 인증심사를 진행했고 모든 항목에서 안정성을 인정받아 정상적으로 카드결제가 가능한 앱으로 출시되었습니다. 
+> 블루투스 리더기를 통한 소켓통신 기반 Android 앱 개발 프로젝트입니다. 내부 카드결제 기능 개발 및 여신금융협회 심사 진행,  스토어 출시까지 완료하였습니다.
 
-* 회사 : 외주
-* 개발 기술 : Java
-* 담당 업무
-  * 리더기 연동 후 Socket 통신을 통해 카드 정보 읽어와 Van사 결제 전표 생성
-  * MS/IC결제 완료 처리
-  * App 무결성/루팅방지/암호화 패스워드 개발
-  * 전표 라이브러리 생성
-* 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
-* 플레이스토어 : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
+* 블루투스 리더기를 통한 소켓통신 기반 앱 내부 카드결제 기능 개발
+* 연계/소속회사 : KSNET/외주
+* 프로젝트 기간: 2018.05~2018.09 (5개월)
+* 개발 환경: Android Studio
+* 개발 언어/라이브러리:  java
+* 상세 업무 
+    1. 서비스 개발 
+        * UI/UX 개발이 완료 된 프로젝트에 개발 진행
+        * KSNET 카드 리더기를 통한 앱 내부 블루투스 통신 기능 개발
+        * 소켓통신을 통한 카드 정보 추출, 전표 생성하여 카드결제 구현(MS/IS)  라이브러리 생성
+        * 앱 무결성/루팅방지/비밀번호 암호화/카드정보 암호화 진행
+    2. 성과
+        * 여신금융협회 TTA 심사 시연 진행, 성공적으로 여신금융협회 승인 완료
+        * Google PlayStore 출시 완료
+* 링크
+    * 홈페이지 : https://mint.ksnet.co.kr/mint/index.jsp
+    * 플레이스토어 : https://play.google.com/store/apps/details?id=com.codecrain.ksnet
 
 <br/>
 
