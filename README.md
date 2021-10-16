@@ -164,7 +164,7 @@
 
 <img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
 
-> 외주로 진행한 Hybrid 앱 프로젝트 입니다. Youtube inline, 음성녹음 기능을 개발하였으며 신규 앱 출시를 성공적으로 마쳤습니다.
+>  K-POP 영상을 통해 한국어 공부를 할 수 있는 iOS Hybrid 앱 프로젝트 입니다. Youtube inline, 음성녹음 기능을 개발하였으며 신규 앱 출시를 성공적으로 마쳤습니다.
 
 * 연계/소속회사 : HeyStars/외주
 * 프로젝트 기간 : 약 3주
@@ -210,7 +210,6 @@
 
 > 블루투스 리더기를 통한 소켓통신 기반 Android 앱 개발 프로젝트입니다. 내부 카드결제 기능 개발 및 여신금융협회 심사 진행,  스토어 출시까지 완료하였습니다.
 
-* 블루투스 리더기를 통한 소켓통신 기반 앱 내부 카드결제 기능 개발
 * 연계/소속회사 : KSNET/외주
 * 프로젝트 기간: 2018.05~2018.09 (5개월)
 * 개발 환경: Android Studio
@@ -234,7 +233,13 @@
 
 <img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
 
-> react-native 앱입니다. 온라인 슈퍼마켓으로 현재의 배달의민족 B마트와 유사합니다. 사용자가 결제를 완료하면 배달기사에게 알람이 가고, 점주에게도 알람이 가도록 푸시서버 설계를 진행했습니다. Android/iOS 동시 출시까지 완료하였으며  배달기사용 앱까지 함께 제작하였습니다. 현재 Google Playstore에서는 내려갔네요.
+> 온라인 슈퍼마켓으로 장바구니에 상품을 담고 결제를 진행하면 배달기사용 앱에 알람이 전송되는 react-native 프로젝트 입니다. Android/iOS 출시를 완료하였습니다.
+
+* 연계/소속회사 : Recordfarm/외주
+* 프로젝트 기간: 2018.05~2018.09 (5개월)
+* 개발 환경: Android Studio
+* 개발 언어/라이브러리:  java
+
 * 회사 : 외주
 * 개발 기술 : react-native, java, objective-c, redux
 * 담당 업무
@@ -267,14 +272,19 @@
 
 <img src="images/time/1.jpg" height="315"/> <img src="images/time/2.jpg" height="315"/> <img src="images/time/3.jpg" height="315"/> 
 
-> Objective-c 프로젝트로 첫 외주로 음악을 재생하고 백그라운드 재생을 하고, 위치 및 습도를 받아와 표기하는 시 낭독 앱입니다. 스트리밍 서버 비용의 부담으로 인하여 현재는 앱서비스를 쉬어가는 상태입니다.
+>  공공데이터 날씨정보를 받아와 날씨 기반 시 음원을 재생하는  iOS Native 앱 프로젝트입니다.
 
-* 회사 : 외주
-* 개발 기술 : Objective-c
-* 담당 업무
-  * 클라이언트와 소통하여 앱의 기획 분석, 설계, 개발 진행
-  * 음악 스트리밍, 페이스북 연동, 플레이리스트 관리, 현재 위치와 습도를 기준으로 시 추천
-  * 앱 스토어 초기 등재 및 리젝 대응, 출시
+* 연계/소속회사 : 외주/Recordfarm
+* 프로젝트 기간: 2017.06  (1개월)
+* 개발 환경: Xcode
+* 개발 언어/라이브러리:  Objective-c, AFNetworking, StreamingKit, FBSDKLoginKit, SBJson
+* 상세 업무 
+    1. 서비스 개발 
+        * 위치기반 날씨 공공데이터 API 사용
+        * 음악 Player 기능 구현, PlayList 관리 기능 구현
+        * FaceBook 로그인 연동, kakao 로그인 연동
+   2. 성과
+        * App Store 출시 완료
 * 페이스북 : https://www.facebook.com/timeforpoetry/photos/a.241268809638988/707802439652287/?type=3&theater
 
 </br>
@@ -284,16 +294,19 @@
 
 <img src="images/Recordfarm/1.jpeg" height="315"/> <img src="images/Recordfarm/2.png" height="315"/> <img src="images/Recordfarm/3.jpeg" height="315"/>   <img src="images/Recordfarm/4.jpeg" height="315"/> 
 
-> 첫번째 Objective-c 프로젝트로 초기 프로젝트는 외주를 통해 진행되었고 입사 후 메인페이지 개편을 진행하며 프로젝트의 전반적인 상태를 확인하였습니다. 초반 선임개발자에게 인수인계를 2달 간 받았습니다. iOS 앱의 특징 iOS 프로젝트의 생태계, Objective-c에 대해 공부하는 시간을 많이 가졌습니다. 100만 MAU를 유지하던 플랫폼인 만큼 작은 버그도 없도록 혼자서라도 코드리뷰를 진행했고, 사내에선 Trello를 통한 애자일-스프린트를 통해 개발 내용을 공유하였습니다. 현재는 인수합병이 되어 기억속으로 사라진 플랫폼입니다.
+> 100만 MAU를 유지하던 플랫폼의 iOS 앱 개발 담당자로 대형 음악 플랫폼/커뮤니티 iOS 개발을 담당하였습니다.
 
-* 회사 : Recordfarm
-* 개발 기술 : Objective-c / Trello / GitHub
-* 담당 업무
-  * Objective-c 기개발 프로젝트 하자보수, 유지보수, 업데이트 진행
-  * Music Player, Widget, Facebook Login 연동, 결제모듈 연동, FCM 연동
-  * 녹음파일 생성 및 파일 시스템 관리, 음악 파일 다운로드
-  * UI/UX 수정, 코드 리팩토링 진행
-  * 간헐적으로 Android 버그 수정 및 UI/UX 업데이트
+* 연계/소속회사 : Recordfarm
+* 프로젝트 기간: 2016.08~2017.05 (10개월)
+* 개발 환경: Xcode
+* 개발 언어/라이브러리:  Objective-c, AFNetworking, StreamingKit, FBSDKLoginKit, Google/Analytics, Google/CloudMessaging 등
+* 상세 업무 
+   1. 서비스 유지보수/하자보수/신규개발
+        * UI/UX 개선, 커뮤니티 페이지 신규 개발, 음악 Player 기능 고도화, 인입 CS 대응 진행
+        * 레거시 코드 제거 및 리팩토링 진행, 결제모듈 연동(이니시스)
+    2. 성과
+        * App Store 정책 대응 및 업데이트 지속 진행
+        * 지속적인 앱 다운로드 증가
 * 나무위키 : https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C%ED%8C%9C
 
 </br>
