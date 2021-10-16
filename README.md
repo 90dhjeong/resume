@@ -88,7 +88,7 @@
 
 ## 프로젝트
 
-**Jestina**
+**1. Jestina**
 
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> <img src="images/Trello/trello1.png" width="400"/> 
 
@@ -116,7 +116,7 @@
     
 <br/>
 
-**Jestina mERP**
+**2. Jestina mERP**
 
 <img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
 
@@ -137,7 +137,7 @@
         * 기존 사무실 PC에서만 접근 가능한 ERP 프로그램을 모바일화.
 </br>
 
-**Jestina 매장직원용 앱**
+**3. Jestina 매장직원용 앱**
 
 <img src="images/Jestina/store/1.png" width="315"/> <img src="images/Jestina/store/2.jpg" width="315"/> 
 
@@ -160,7 +160,7 @@
   
 </br>
 
-**HeyStars**
+**4. HeyStars**
 
 <img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
 
@@ -181,7 +181,7 @@
 </br>
 
 
-**피클플레이**
+**5. 피클플레이**
 
 <img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
@@ -196,7 +196,7 @@
 
 <br/>
 
-**MINT**
+**6. MINT**
 
 <img src="images/mint/1.png" height="315"/>  <img src="images/mint/2.png" height="315"/>
 
@@ -214,7 +214,7 @@
 
 <br/>
 
-**온라인 슈퍼마켓 바르게온다**
+**7. 온라인 슈퍼마켓 바르게온다**
 
 <img src="images/onda/1.jpg" height="315"/>  <img src="images/onda/2.jpg" height="315"/> <img src="images/onda/3.jpg" height="315"/> <img src="images/onda/4.jpg" height="315"/>
 
@@ -230,7 +230,7 @@
 
 
 
-**지비다**
+**8. 지비다**
 
 <img src="images/jivida/0.jpg" height="315"/> <img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> 
 
@@ -247,7 +247,7 @@
 </br>
 
 
-**시와 시 사이 - 시간**
+**9. 시와 시 사이 - 시간**
 
 <img src="images/time/1.jpg" height="315"/> <img src="images/time/2.jpg" height="315"/> <img src="images/time/3.jpg" height="315"/> 
 
@@ -264,7 +264,7 @@
 </br>
 
 
-**레코드팜**
+**10. 레코드팜**
 
 <img src="images/Recordfarm/1.jpeg" height="315"/> <img src="images/Recordfarm/2.png" height="315"/> <img src="images/Recordfarm/3.jpeg" height="315"/>   <img src="images/Recordfarm/4.jpeg" height="315"/> 
 
