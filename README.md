@@ -94,6 +94,27 @@
 
 > Hybrid 앱으로 기출시된 Android, iOS 앱의 유지보수/하자보수 업무를 맡아  배포하고 운영하였습니다.
   
+* 연계/소속회사 : Jestina
+* 프로젝트 기간: 2019.04~ 2021.06 (2020.08 퇴사 후 외주 진행 중)
+* 개발 환경: Xcode, Android Studio
+* 개발 언어/라이브러리
+    * iOS: Swift, Alamofire, webkit(hybrid), Firebase/Core, Firebase/Message
+    * Androd: java, retrofit2, okhttp3, rating, gson, firebase-messaging
+* 상세 업무 
+     1. 서비스 유지보수/신규개발
+        * iOS/Android 정책 모니터링 업데이트 진행 (iOS APNS 지원 대응, Android SDK 업그레이드 대응)
+        * ISMS 앱 취약점 분석 및 조치 보고
+        * 사용성 개선(상세페이지 확대, Web Cookie 관리, 디바이스 별 테스트, 로딩 속도 개선)
+     2. 서비스 하자보수
+        * CS 인입 이슈 대응, Web, Moblie Web 이슈 디버깅을 통한 원인 분석
+     3. 성과
+        * AppleLogin 개발 기획, Google 최소 SDK 변경사항 공유 등 각 플랫폼 이슈 미리 확인 및 대응 진행하여 앱 사용 이슈 없도록 예방
+* 링크
+    * 홈페이지 : https://m.jestina.co.kr/sp
+    * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
+    * 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
+
+
 * 회사 : J.ESTINA
 * 사용 기술 : Swift4, Android Java, Trello, Bitbucket
 * 담당 업무
