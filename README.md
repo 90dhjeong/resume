@@ -185,13 +185,21 @@
 
 <img src="images/Pickle/p1.jpeg" height="315"/><img src="images/Pickle/p4.jpeg" height="315"/><img src="images/Pickle/p2.jpeg" height="315"/><img src="images/Pickle/p6.jpeg" height="315"/>
 
-> 스포츠 경기의 승/패를 예상하는 앱으로, 잼라이브와 유사하지만 좀 더 기능이 많은 앱입니다. Android기준 다운로드가 20만을 넘었습니다. 초기 기획 단계부터 참여하여 빌드업을 해 나갔습니다. 비디오 스트리밍/스트리밍 화면이 시간이 지날 때 까지 종료되지 않도록 하는 기능, 인앱결제를 구현하고 랭킹을 보여주며 Select Box를 경우에 따라 다르게 보여주는 등 UI적으로 굉장히 공을 들였습니다. 크기가 큰 앱 개발을 초기 단계부터 시작할 때 클래스 하나를 생성할 때도 추후 사용성을 고려하고 나무보다 숲을 봐야하는 것을 배웠던 앱입니다. 1차 개발을 완료하고 AppStore출시까지 완료하였습니다. 
+> 당일 진행되는 스포츠게임의 목록을 비디오로 보여준 뒤 결과를 예상하고, 정답을 맞춘 모든 사용자에게 상금을 나눠주는 iOS Native 앱 프로젝트 입니다.
 
-* 회사 : 외주
-* 개발 기술 : Swift4
-* 담당 업무
-  * 앱 초기 설계, 회원가입/로그인,  in-app 결제 연동, 결제, 비디오 스트리밍 등 초기 앱 설계 및 1차 개발 완료, 앱스토어 등재
-* 플레이스토어 : https://play.google.com/store/apps/details?id=com.wagti.pickle&hl=ko
+* 연계/소속회사 : Recordfarm/Codecrain
+* 프로젝트 기간: 2018.10~2019.01 (4개월)
+* 개발 환경: Xcode
+* 개발 언어/라이브러리: iOS: Swift, Alamofire, SwiftyStoreKit, SwiftyJSON, SwiftDate, Firebase/Messaging, Kingfisher, IAPHelper 등
+* 상세 업무 
+    1. 서비스 개발 
+        * 전체 UI 개발, 총 VC 40개, Modal 30개 이상의 View 4개의 Storyboard+xib 파일로 관리
+        * 회원가입 인증로직, 비디오 스트리밍 재생, 유동 Tableview 구현, 승리 구현, View내부 타이머 구현하여 동적으로 View 변화, 비동기 태스크 처리
+        * Apple in-app 결제, firebase Notification 구현
+   2. 성과
+        * 앱스토어 계정 생성 및 앱스토어 출시 완료, 10만 다운로드 달성
+* 링크
+    * 플레이스토어 : https://play.google.com/store/apps/details?id=com.wagti.pickle&hl=ko
 
 
 <br/>
