@@ -175,7 +175,6 @@
         * 초기 개발환경 세팅, Youtube 영상 inline, 자동재생 개발, FCM 설정, 음성녹음/재생/전송 기능 개발
     2. 성과
         * 신규 앱 앱스토어 심사 리젝 대응 및 출시 완료.
-        
 * 링크
     * 앱스토어 : https://apps.apple.com/vn/app/heystars-%ED%97%A4%EC%9D%B4%EC%8A%A4%ED%83%80%EC%A6%88/id1493475120#?platform=iphone
     
