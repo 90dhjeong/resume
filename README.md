@@ -164,17 +164,21 @@
 
 <img src="images/heystars/1.png" height="315"/> <img src="images/heystars/2.png" height="315"/> <img src="images/heystars/3.png" height="315"/> <img src="images/heystars/4.png" height="315"/> 
 
-> 외주로 진행한 Hybrid 앱입니다. Youtube영상을 inline으로 보여줄 수 있도록 webview를 구현하고, 푸시를 수신할 수 있도록 Google filebase를 사용하였습니다. 음성을 녹음하여 파일로 생성한 뒤 서버로 통신하여 webview에서 결과를 보여줄 수 있는 작업이 흥미로웠습니다. 앱 초기 환경설정부터 출시까지 진행하였습니다.
+> 외주로 진행한 Hybrid 앱 프로젝트 입니다. Youtube inline, 음성녹음 기능을 개발하였으며 신규 앱 출시를 성공적으로 마쳤습니다.
 
-* 회사 : 외주
-* 개발 기술 : Swift4
-* 담당 업무
-  * 신규 프로젝트 환경 설정,  AppStore 출시
-  * Youtube 영상 inline처리, FCM
-  * 음성 녹음 및 녹음파일 서버 통신
-* 앱스토어 : https://apps.apple.com/vn/app/heystars-%ED%97%A4%EC%9D%B4%EC%8A%A4%ED%83%80%EC%A6%88/id1493475120#?platform=iphone
-
-
+* 연계/소속회사 : HeyStars(외주)
+* 프로젝트 기간 : 약 3주
+* 개발 환경 : Xcode
+* 개발 언어/라이브러리 : Swift, Alamofire, AudioKit, SnapKit, Firebase/Messaging
+* 상세 업무 
+    1. 서비스 개발 
+        * 초기 개발환경 세팅, Youtube 영상 inline, 자동재생 개발, FCM 설정, 음성녹음/재생/전송 기능 개발
+    2. 성과
+        * 신규 앱 앱스토어 심사 리젝 대응 및 출시 완료.
+        
+* 링크
+    * 앱스토어 : https://apps.apple.com/vn/app/heystars-%ED%97%A4%EC%9D%B4%EC%8A%A4%ED%83%80%EC%A6%88/id1493475120#?platform=iphone
+    
 </br>
 
 
