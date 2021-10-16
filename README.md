@@ -110,21 +110,28 @@
 
 <img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
 
-> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Native Android/iOS 앱으로 구현한 프로젝트 입니다. Android는 MVP 패턴으로 구현하였으며, iOS 개발은 프로젝트 생성부터 종료까지 진행하였습니다. 
-
-* 회사 : J.ESTINA
-* 개발 기술 : Swift4, Android Java
-* 담당 업무
-  * 제이에스티나 ERP 프로그램의 매출 및 ERP관련 자료를 차트, 그래프, 표 등 대시보드 형태로 구현
-  * Enterprise 출시
-
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Native Android/iOS 앱으로 구현한 프로젝트 입니다. 
+  
+* 연계/소속회사 : Jestina
+* 프로젝트 기간: 2019.11~ 2020.04 (6개월)
+* 개발 환경 : Xcode
+* 개발 언어/라이브러리 : Swift, Alamofire, Charts, SpreadsheetView, JTAppleCalendar, SwiftyJSON
+*  상세 업무 
+    1. 서비스 개발 
+        * 초기 프로젝트 MVC 패턴 적용, Model/View 로직 분리
+        * ERP 내부 매출/영업/재고 관련 총 14개 카테고리 페이지 StoryBoard 기반 MainView 생성, 유사 페이지 내부 View AutoLayout으로 개발
+        * RestAPI / Alamofire 통신, 데이터 parsing
+        * 년/월/일 재고 표현을 위해 SpreadsheetView, Charts, JTAppleCalendar 라이브러리 사용
+    2. 성과
+        * Enterprise 배포 완료
+        * 기존 사무실 PC에서만 접근 가능한 ERP 프로그램을 모바일화.
 </br>
 
 **Jestina 매장직원용 앱**
 
 <img src="images/Jestina/store/1.png" width="315"/> <img src="images/Jestina/store/2.jpg" width="315"/> 
 
-> 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회/사용되는 iPad앱으로 Hybrid 기반입니다. 초기 앱 기획부터 운영, 개발사 미팅 등 앱 개발의 전체적인 부분에 참여하였으며 Webview 파일 다운로드 기능을 개발하였습니다.
+> 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회에 사용할 목적으로 개발된 Hybrid iPad용 앱 프로젝트 입니다.
 
 * 연계/소속회사 : Jestina
 * 프로젝트 기간 : 2020.05~ 2020.07 (3개월)
