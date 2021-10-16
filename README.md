@@ -113,18 +113,7 @@
     * 홈페이지 : https://m.jestina.co.kr/sp
     * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
     * 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
-
-
-* 회사 : J.ESTINA
-* 사용 기술 : Swift4, Android Java, Trello, Bitbucket
-* 담당 업무
-  * 제이에스티나 자사몰 Android, iOS 앱 배포
-  * 사용자 리뷰 및 운영팀의 피드백에 따라 성능/사용성 개선, 월 1~2회 업데이트 진행
-  * FCM Notification 추가, Android 무결성/루팅 검증, 앱 푸시 알림 분기, 자동로그인 기능 추가, web/native간 통신, Google 정책 대응(SDK 최소 버전 업데이트 permission 관리 등), Intro 속도 개선, AppleLogin 설계 등
-* 홈페이지 : https://m.jestina.co.kr/sp
-* 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
-* 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
-
+    
 <br/>
 
 **Jestina mERP**
