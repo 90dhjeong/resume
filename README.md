@@ -88,7 +88,51 @@
 
 ## 프로젝트
 
-**1. Jestina**
+**1. Jestina 매장직원용 앱**
+
+<img src="images/Jestina/store/1.png" width="315"/> <img src="images/Jestina/store/2.jpg" width="315"/> 
+
+> 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회에 사용할 목적으로 개발된 Hybrid iPad용 앱 프로젝트 입니다.
+
+* 연계/소속회사 : Jestina
+* 프로젝트 기간 : 2020.05~ 2020.07 (3개월)
+* 개발 환경 : Xcode
+* 개발 언어/라이브러리 : Swift, Alamofire, webkit(hybrid)
+* 상세 업무 
+    1. 서비스 기획/설계/SM
+        * 앱 기초 기획 및 설계, 웹페이지 개발사 WBS 관리
+    2. 서비스 개발 
+        * iOS 초기 프로젝트 MVC 패턴 적용, Mobile Web을 WkWebview로 최적화
+        * 제이에스티나 그룹웨어 공지사항 API 연동 / 자사몰 회원가입 연동 / 첨부파일 다운로드 구현
+    3. 성과
+        * Enterprise 배포 완료
+        * 기존 오프라인 고객의 신규 자사몰 가입 수가 증가함. (일 평균 5명)
+        * 매장직원이 타 매장 상품 재고상황 및 그룹웨어 공지사항을 확인할 수 있게 함.
+  
+</br>
+
+**2. Jestina mERP**
+
+<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
+
+> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Native Android/iOS 앱으로 구현한 프로젝트 입니다. 
+  
+* 연계/소속회사 : Jestina
+* 프로젝트 기간: 2019.11~ 2020.04 (6개월)
+* 개발 환경 : Xcode
+* 개발 언어/라이브러리 : Swift, Alamofire, Charts, SpreadsheetView, JTAppleCalendar, SwiftyJSON
+*  상세 업무 
+    1. 서비스 개발 
+        * 초기 프로젝트 MVC 패턴 적용, Model/View 로직 분리
+        * ERP 내부 매출/영업/재고 관련 총 14개 카테고리 페이지 StoryBoard 기반 MainView 생성, 유사 페이지 내부 View AutoLayout으로 개발
+        * RestAPI / Alamofire 통신, 데이터 parsing
+        * 년/월/일 재고 표현을 위해 SpreadsheetView, Charts, JTAppleCalendar 라이브러리 사용
+    2. 성과
+        * Enterprise 배포 완료
+        * 기존 사무실 PC에서만 접근 가능한 ERP 프로그램을 모바일화.
+</br>
+
+**3. Jestina**
 
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> <img src="images/Trello/trello1.png" width="400"/> 
 
@@ -114,50 +158,6 @@
     * 앱스토어 : https://apps.apple.com/us/app/jestina/id1226908907
     * 플레이스토어 : https://play.google.com/store/apps/details?id=com.romanson.jestina
     
-<br/>
-
-**2. Jestina mERP**
-
-<img src="images/Jestina/mobileERP/1.png" height="315"/> <img src="images/Jestina/mobileERP/2.png" height="315"/> <img src="images/Jestina/mobileERP/3.png" height="315"/> 
-
-> 제이에스티나의 ERP 메뉴 중 매출, 재고, 영업 부분을 Native Android/iOS 앱으로 구현한 프로젝트 입니다. 
-  
-* 연계/소속회사 : Jestina
-* 프로젝트 기간: 2019.11~ 2020.04 (6개월)
-* 개발 환경 : Xcode
-* 개발 언어/라이브러리 : Swift, Alamofire, Charts, SpreadsheetView, JTAppleCalendar, SwiftyJSON
-*  상세 업무 
-    1. 서비스 개발 
-        * 초기 프로젝트 MVC 패턴 적용, Model/View 로직 분리
-        * ERP 내부 매출/영업/재고 관련 총 14개 카테고리 페이지 StoryBoard 기반 MainView 생성, 유사 페이지 내부 View AutoLayout으로 개발
-        * RestAPI / Alamofire 통신, 데이터 parsing
-        * 년/월/일 재고 표현을 위해 SpreadsheetView, Charts, JTAppleCalendar 라이브러리 사용
-    2. 성과
-        * Enterprise 배포 완료
-        * 기존 사무실 PC에서만 접근 가능한 ERP 프로그램을 모바일화.
-</br>
-
-**3. Jestina 매장직원용 앱**
-
-<img src="images/Jestina/store/1.png" width="315"/> <img src="images/Jestina/store/2.jpg" width="315"/> 
-
-> 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회에 사용할 목적으로 개발된 Hybrid iPad용 앱 프로젝트 입니다.
-
-* 연계/소속회사 : Jestina
-* 프로젝트 기간 : 2020.05~ 2020.07 (3개월)
-* 개발 환경 : Xcode
-* 개발 언어/라이브러리 : Swift, Alamofire, webkit(hybrid)
-* 상세 업무 
-    1. 서비스 기획/설계/SM
-        * 앱 기초 기획 및 설계, 웹페이지 개발사 WBS 관리
-    2. 서비스 개발 
-        * iOS 초기 프로젝트 MVC 패턴 적용, Mobile Web을 WkWebview로 최적화
-        * 제이에스티나 그룹웨어 공지사항 API 연동 / 자사몰 회원가입 연동 / 첨부파일 다운로드 구현
-    3. 성과
-        * Enterprise 배포 완료
-        * 기존 오프라인 고객의 신규 자사몰 가입 수가 증가함. (일 평균 5명)
-        * 매장직원이 타 매장 상품 재고상황 및 그룹웨어 공지사항을 확인할 수 있게 함.
-  
 </br>
 
 **4. HeyStars**
@@ -236,7 +236,7 @@
 > 온라인 슈퍼마켓으로 장바구니에 상품을 담고 결제를 진행하면 배달기사용 앱에 알람이 전송되는 react-native 프로젝트 입니다. Android/iOS 출시를 완료하였습니다.
 
 * 연계/소속회사 : Recordfarm/외주
-* 프로젝트 기간: 2018.05~2018.09 (5개월)
+* 프로젝트 기간: 2017.12~2018.04 (5개월)
 * 개발 환경: WebStrom, Xcode, Android Studio
 * 개발 언어/라이브러리:  react-native, Redux, Objective-c, Java
 * 상세 업무
@@ -247,16 +247,17 @@
 <br/>
 
 
-
 **8. 지비다**
 
 <img src="images/jivida/0.jpg" height="315"/> <img src="images/jivida/1.jpg" height="315"/> <img src="images/jivida/2.jpg" height="315"/> 
 
 > react-native 앱입니다. 이 앱은 로그인 사용자가 중개사인지/고객인지 분리하여   하나의 앱으로 동시에 두가지 타입의 사용자를 설정할 수 있도록 진행했습니다. 중개사와 Socket 통신을 통해 실시간 채팅이 가능하게 구현했습니다. 
 
-* 회사 : 외주
-* 개발 기술 : react-native, java, objective-c, redux
-* 담당 업무
+* 연계/소속회사 : Recordfarm/외주
+* 프로젝트 기간 : 2017.07~2017.11 (5개월)
+* 개발 환경 : WebStrom, Xcode, Android Studio
+* 개발 언어/라이브러리 : react-native, java, objective-c, redux
+* 상세 업무
   * Socket 통신 기술 사용하여 메신저 기능 유치 (채팅)
   * 하나의 앱을 두 가지 사용자(고객, 중개사)로 나눠 뷰를 제공하는 형태로 개발
   * 부동산 관련 정보를 한 번에 입력할 수 있도록 뷰를 설정
