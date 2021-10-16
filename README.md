@@ -93,7 +93,7 @@
 <img src="images/Jestina/Jestina/1.jpeg" height="315"/> <img src="images/Jestina/Jestina/2.jpeg" height="315"/> <img src="images/Jestina/Jestina/3.jpeg" height="315"/> <img src="images/Trello/trello1.png" width="400"/> 
 
 > Hybrid 앱으로 기출시된 Android, iOS 앱의 유지보수/하자보수 업무를 맡아  배포하고 운영하였습니다.
-
+  
 * 회사 : J.ESTINA
 * 사용 기술 : Swift4, Android Java, Trello, Bitbucket
 * 담당 업무
@@ -126,13 +126,21 @@
 
 > 제이에스티나의 백화점 매장에서 고객 회원가입/상품검색/재고조회/사용되는 iPad앱으로 Hybrid 기반입니다. 초기 앱 기획부터 운영, 개발사 미팅 등 앱 개발의 전체적인 부분에 참여하였으며 Webview 파일 다운로드 기능을 개발하였습니다.
 
-* 회사 : J.ESTINA
-* 개발 기술 : Swift4
-* 담당 업무
-  * 기획 및 페이지 설계, 운영
-  * 웹앱 구현, Webview 파일 다운로드 구현
-  * Enterprise 출시
-
+* 연계/소속회사 : Jestina
+* 프로젝트 기간 : 2020.05~ 2020.07 (3개월)
+* 개발 환경 : Xcode
+* 개발 언어/라이브러리 : Swift, Alamofire, webkit(hybrid)
+* 상세 업무 
+ 1. 서비스 기획/설계/SM
+  - 앱 기초 기획 및 설계, 웹페이지 개발사 WBS 관리
+ 2. 서비스 개발 
+  - iOS 초기 프로젝트 MVC 패턴 적용, Mobile Web을 WkWebview로 최적화
+  - 제이에스티나 그룹웨어 공지사항 API 연동 / 자사몰 회원가입 연동 / 첨부파일 다운로드 구현
+ 3. 성과
+  - Enterprise 배포 완료
+  - 기존 오프라인 고객의 신규 자사몰 가입 수가 증가함. (일 평균 5명)
+  - 매장직원이 타 매장 상품 재고상황 및 그룹웨어 공지사항을 확인할 수 있게 함.
+  
 </br>
 
 **HeyStars**
